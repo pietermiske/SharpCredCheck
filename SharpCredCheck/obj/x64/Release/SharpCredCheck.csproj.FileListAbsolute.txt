@@ -1,0 +1,6 @@
+C:\Users\Redteam\Desktop\SharpCredCheck\SharpCredCheck\bin\x64\Release\SharpCredCheck.exe.config
+C:\Users\Redteam\Desktop\SharpCredCheck\SharpCredCheck\bin\x64\Release\SharpCredCheck.exe
+C:\Users\Redteam\Desktop\SharpCredCheck\SharpCredCheck\bin\x64\Release\SharpCredCheck.pdb
+C:\Users\Redteam\Desktop\SharpCredCheck\SharpCredCheck\obj\x64\Release\SharpCredCheck.csproj.CoreCompileInputs.cache
+C:\Users\Redteam\Desktop\SharpCredCheck\SharpCredCheck\obj\x64\Release\SharpCredCheck.exe
+C:\Users\Redteam\Desktop\SharpCredCheck\SharpCredCheck\obj\x64\Release\SharpCredCheck.pdb
