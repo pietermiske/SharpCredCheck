@@ -29,3 +29,6 @@ Verify local credentials:         SharpCredCheck.exe /username:john /password:Pa
 Verify domain credentials:        SharpCredCheck.exe /username:john /password:Password123 /ad
 Verify creds in other domain:     SharpCredCheck.exe /username:john /password:Password123 /domain:contoso.com /dc:dc01.contoso.com /ad
 ```
+
+### Screenshot:
+![Screenshot](https://github.com/pietermiske/SharpCredCheck/blob/main/Screenshots/SharpCredCheck_domain.png?raw=true)
